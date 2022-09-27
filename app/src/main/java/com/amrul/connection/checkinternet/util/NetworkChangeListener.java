@@ -10,11 +10,9 @@ import android.view.View;
 import android.widget.Button;
 
 import androidx.appcompat.app.AlertDialog;
-import androidx.appcompat.widget.AppCompatButton;
 
 import com.amrul.connection.checkinternet.R;
 import com.google.android.material.dialog.MaterialAlertDialogBuilder;
-import com.google.android.material.floatingactionbutton.FloatingActionButton;
 
 public class NetworkChangeListener extends BroadcastReceiver {
     @Override
